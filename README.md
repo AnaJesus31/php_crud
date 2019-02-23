@@ -9,3 +9,6 @@ A web server and a browser
 
 # About Project
 This project contains Create, Read, Update and Delete
+
+# It Contains
+index.pho, delete.php, edit.php, update.php
